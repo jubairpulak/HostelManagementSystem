@@ -1,4 +1,9 @@
 # HostelManagementSystem
 
+It is a backend project of Hostel managemnt system
 <br/>
-##admin
+### All Features
+
+<br />
+
+## 
