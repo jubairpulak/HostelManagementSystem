@@ -2,7 +2,7 @@
 
 It is a backend project of Hostel managemnt system
 <br />
-# [Followed goldbergyoni/nodebestpractices to design this project](https://github.com/goldbergyoni/nodebestpractices/)
+# To ensured all the best pratices, i have followed [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices/).
 
 <br/>
 ### All Features
